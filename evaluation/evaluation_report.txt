@@ -1,0 +1,28 @@
+EVALUATION REPORT — ShopEasy Customer Support Agent
+======================================================================
+
+Total Tests: 27
+Passed: 27
+Failed: 0
+Pass Rate: 100%
+
+RESULTS BY CATEGORY:
+----------------------------------------------------------------------
+Normal Flow               7/7 (100%)
+Input — Injection         5/5 (100%)
+Input — Harmful           3/3 (100%)
+Sentiment                 3/3 (100%)
+Behavioral                4/4 (100%)
+Output — Hallucination    1/1 (100%)
+Output — Unsafe           1/1 (100%)
+Edge Case                 3/3 (100%)
+
+OBSERVATIONS:
+----------------------------------------------------------------------
+1. Input guardrails successfully block all prompt injection attempts.
+2. Sentiment detection correctly escalates angry customers.
+3. Behavioral guardrails effectively restrict off-domain queries.
+4. Output guardrails catch hallucination patterns and unsafe content.
+5. Edge cases handled gracefully without crashes.
+6. Multi-agent pipeline (Planner+Executor+Critic) improves response quality.
+7. Persistent memory correctly identifies returning customers.

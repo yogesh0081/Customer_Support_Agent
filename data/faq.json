@@ -1,0 +1,28 @@
+{
+    "faqs": [
+      {
+        "question": "What is your return policy?",
+        "answer": "You can return any item within 30 days of purchase for a full refund, provided it is unused and in original packaging."
+      },
+      {
+        "question": "How long does shipping take?",
+        "answer": "Standard shipping takes 5-7 business days. Express shipping takes 1-2 business days."
+      },
+      {
+        "question": "How do I track my order?",
+        "answer": "You can track your order by visiting our website and entering your order ID in the Track Order section."
+      },
+      {
+        "question": "Can I cancel my order?",
+        "answer": "Orders can be cancelled within 2 hours of placement. After that, the order enters processing and cannot be cancelled."
+      },
+      {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept Visa, MasterCard, PayPal, UPI, and Net Banking."
+      },
+      {
+        "question": "How do I reset my password?",
+        "answer": "Go to the login page and click Forgot Password. Enter your registered email and follow the instructions sent to you."
+      }
+    ]
+  }
