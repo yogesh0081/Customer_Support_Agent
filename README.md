@@ -209,6 +209,16 @@ python test_cases.py
 | "I want to speak to a human" | Escalation tool |
 
 ---
+## 📸 Screenshots
+
+### Normal Response with Quality Score
+![Normal Response](screenshots/Screenshot_Normal.png)
+
+### Guardrail Triggered
+![Guardrail](screenshots/Screenshot_Guardrail.png)
+
+### Order Status Lookup
+![Order Status](screenshots/Screenshot_order.png)
 
 ## 🛠️ Tech Stack
 
