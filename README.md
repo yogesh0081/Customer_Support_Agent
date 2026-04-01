@@ -231,7 +231,7 @@ python test_cases.py
 ---
 ## 🎬 Demo Video
 
-Watch the full demo: [Click here to watch](https://www.loom.com/share/3add4ddc97254647ab69456f064bd40b)
+Watch the full demo: [Click here to watch](https://www.loom.com/share/8ad3c496d3244470a650d41511283c91)
 
 ## 👨‍💻 Author
 
