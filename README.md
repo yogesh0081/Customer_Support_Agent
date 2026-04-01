@@ -229,6 +229,9 @@ python test_cases.py
 - **Logging** — Custom session logger
 
 ---
+## 🎬 Demo Video
+
+Watch the full demo: [Click here to watch](https://www.loom.com/share/3add4ddc97254647ab69456f064bd40b)
 
 ## 👨‍💻 Author
 
